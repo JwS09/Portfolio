@@ -13,12 +13,12 @@ Client Relations & Operations Management: Expertise in managing client expectati
 Teamwork & Communication: Strong collaborative skills and effective communication abilities.
 
 # Projects Overview
-My GitHub portfolio showcases a diverse range of projects, primarily focused on data analysis and brand strategy. Although the majority of my projects are developed in C#, Python, and JavaScript, I place a significant emphasis on SQL projects. Despite these projects containing less code, they are crucial in demonstrating my ability to handle data manipulation, query optimization, and database management efficiently.
+My GitHub portfolio showcases a diverse range of projects, primarily focused on data analysis and brand strategy. Although the majority of my projects are developed in C#, Python, and JavaScript, I place a significant emphasis on RDBMS projects. Despite these projects containing less code, they are crucial in demonstrating my ability to handle data manipulation, query optimization, and database management efficiently.
 
 RDBMS (SQL, R, MongoDB)
 
 Database Design and Optimization
-Some of my projects focus on designing efficient database schemas that support scalable applications. They demonstrate my understanding of SQL transactions, indexing, and query optimization to enhance performance.
+Some of my projects focus on designing efficient database schemas that support a variety of applications. They demonstrate my understanding of transactions, indexing, and query optimization to enhance performance.
 
 Python Projects
 
