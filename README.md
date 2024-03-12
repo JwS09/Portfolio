@@ -16,25 +16,31 @@ Teamwork & Communication: Strong collaborative skills and effective communicatio
 My GitHub portfolio showcases a diverse range of projects, primarily focused on data analysis and brand strategy. Although the majority of my projects are developed in C#, Python, and JavaScript, I place a significant emphasis on SQL projects. Despite these projects containing less code, they are crucial in demonstrating my ability to handle data manipulation, query optimization, and database management efficiently.
 
 RDBMS (SQL, R, MongoDB)
-Data Analysis and Insights
-My SQL projects often involve complex data analysis to derive actionable business insights. These projects highlight my proficiency in SQL for data querying, aggregation, and reporting, which are essential skills in data science and business analytics.
 
 Database Design and Optimization
 Some of my projects focus on designing efficient database schemas that support scalable applications. They demonstrate my understanding of SQL transactions, indexing, and query optimization to enhance performance.
 
 Python Projects
-analyzeMusicPlaylist: A Python project that analyzes music playlists to provide insights into listening preferences and trends.
-automobile: This project involves analyzing automobile data to uncover patterns and insights related to vehicle performance and specifications.
-expenseReport: A Python script designed to automate the generation and analysis of expense reports, helping in financial tracking and budgeting.
-salesDataAnalyzer: This tool analyzes sales data to identify trends, peak sales periods, and product performance, providing valuable insights for business strategy.
-shopping.py: A script that simplifies the shopping experience by managing shopping lists, tracking expenses, and suggesting budget-friendly options.
-library.py: A system for managing a library's book inventory, including features for book lending, returns, and inventory tracking.
+
+shopping.py: A script that simplifies the shopping experience by managing shopping lists, tracking expenses, and providing a check-out functionality.
+
+library.py: A system for managing a library's book inventory, including features for book acquisitions, dispersals, and inventory tracking.
+
 lineArt3.1.py: A creative coding project that generates unique line art patterns using Python's graphical capabilities.
-wandFINAL.py: This project utilizes the Wand library for Python to manipulate and transform images, demonstrating skills in creative coding and digital image processing.
-Other Projects
+
+wandFINAL.py: This project utilizes nested dictionaries, demonstrating skills in creative coding.
+
+Other Projects (C#/ .NET)
+
+analyzeMusicPlaylist: This project that analyzes music playlists to provide insights into listening preferences, trends, and content analysis.
+
+automobile: This project involves analyzing automobile data to uncover patterns and insights related to vehicle performance and specifications.
+
+expenseReport: A script designed to automate the generation and analysis of expense reports, helping in financial tracking and budgeting.
+
+salesDataAnalyzer: This tool analyzes sales data to identify trends, peak sales periods, and product performance, providing valuable insights for business strategy.
+
 DocCreator-Merger: A tool developed to create and merge documents efficiently, streamlining workflow and documentation processes.
-Logo and Creative Work: A collection of creative projects involving logo design and other graphical work, showcasing my creative skills alongside my technical abilities.
-Longform: A project focused on long-form content creation, highlighting my abilities in content management and digital storytelling.
-Project1: An exploratory project that covers various aspects of software development, from initial concept to final implementation.
-Visualization and Analysis: This project involves the use of data visualization tools to analyze datasets and present findings in a visually engaging manner.
+
+
 Each project in my portfolio is a reflection of my diverse skill set, ranging from data analysis and database management with SQL to creative problem solving and software development with Python and other tools. Feel free to explore these projects to get a better understanding of my capabilities and interests.
